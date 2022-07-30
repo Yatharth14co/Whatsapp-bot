@@ -1,2 +1,2 @@
-# Whatsapp-bot
-Whatsapp bot
+# Automation-Project
+Automation using Whatsapp Web
